@@ -1,4 +1,9 @@
-## Oiii eu sou  Paulo Henrique Ferreira França, criador  de conteúdo de programação e tecnologia Front-End!
+##Oiii!
+Eu sou Paulo Henrique Ferreira França,
+estudante na Mentorama e criador de conteúdo de programação e tecnologia.
+Atualmente, estou me especializando em Front-End,
+compartilhando projetos e aprendizados sobre desenvolvimento web.
+Explore meus repositórios para ver minhas criações e evoluções!
 
 
 <div style="display: inline_block"><br>
