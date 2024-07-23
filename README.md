@@ -1,7 +1,7 @@
-##Oiii!
+<h1>Olá Sou Desenvolvedor Front-End </h1>
 Eu sou Paulo Henrique Ferreira França,
 estudante na Mentorama e criador de conteúdo de programação e tecnologia.
-Atualmente, estou me especializando em Front-End,
+Atualmente, estou me especializando em Front-End, estou
 compartilhando projetos e aprendizados sobre desenvolvimento web.
 Explore meus repositórios para ver minhas criações e evoluções!
 
