@@ -25,7 +25,7 @@ Explore meus repositórios para ver minhas criações e evoluções!</p>
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
+<img src="https://github-readme-stats.vercel.app/api?username=PauloHenrique993940&bg_color=000000&title_color=4CAF50&text_color=FFFFFF&icon_color=FFA500&border_color=CCCCCC" alt="Anurag's GitHub stats">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PauloHenrique993940" alt="Anurag's GitHub stats">
 
 
