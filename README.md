@@ -17,12 +17,9 @@ Explore meus repositórios para ver minhas criações e evoluções!</p>
   <img align="center" alt="NPM" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Sass" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="VSCode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Trello" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Trello_logo_2020.svg">
-  <img align="center" alt="Replit" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Replit_logo.svg">
-  <img align="center" alt="CodeSandbox" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/CodeSandbox_Logo.svg">
   <img align="center" alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Vite" height="40" width="40" src="https://vitejs.dev/logo.svg">
-  <img align="center" alt="Cypress" height="40" width="40" src="https://raw.githubusercontent.com/cypress-io/cypress/master/branding/logo/cypress-logo-vertical.svg">
+  
   <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="SQLite" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
 </div>
