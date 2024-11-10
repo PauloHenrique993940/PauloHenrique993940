@@ -12,7 +12,6 @@ Explore meus repositórios para ver minhas criações e evoluções!</p>
   <img align="center" alt="Bootstrap" height="40" width="40" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png">
   <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Vercel" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/02/Vercel_logo.svg">
   <img align="center" alt="Gulp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg">
   <img align="center" alt="NPM" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Sass" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
