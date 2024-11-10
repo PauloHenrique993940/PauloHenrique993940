@@ -19,6 +19,7 @@ Explore meus repositórios para ver minhas criações e evoluções!</p>
   <img align="center" alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Vite" height="40" width="40" src="https://vitejs.dev/logo.svg">
   <img align="center" alt="DevTools" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg">
+  <img align="center" alt="Less" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg">
   
   <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="SQLite" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
