@@ -1,4 +1,4 @@
-<h1>Olá, Sou Desenvolvedor Front-End</h1>
+<h1>Olá, Sou Desenvolvedor Front-End | WEB</h1>
 <p>Eu sou Paulo Henrique Ferreira França, estudante na Mentora e criador de conteúdo de programação e tecnologia.
 Atualmente, estou me especializando em Front-End e compartilhando projetos e aprendizados sobre desenvolvimento web.
 Explore meus repositórios para ver minhas criações e evoluções!</p>
@@ -18,6 +18,7 @@ Explore meus repositórios para ver minhas criações e evoluções!</p>
   <img align="center" alt="VSCode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Vite" height="40" width="40" src="https://vitejs.dev/logo.svg">
+  <img align="center" alt="DevTools" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg">
   
   <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="SQLite" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
