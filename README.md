@@ -1,4 +1,4 @@
-<h1>Olá, Sou Engenheiro Front-End | WEB</h1>
+<h1>Olá, Sou DEsenvolvedor  Web| Front end</h1>
 <p>Eu sou Paulo Henrique Ferreira França, estudante na Mentora e criador de conteúdo de programação e tecnologia.
 Atualmente, estou me especializando em Front-End e compartilhando projetos e aprendizados sobre desenvolvimento web.
 Explore meus repositórios para ver minhas criações e evoluções!</p>
