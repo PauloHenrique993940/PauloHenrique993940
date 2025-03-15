@@ -1,57 +1,44 @@
-<img align="center" height="auto" width="100%" alt="banner" src="https://github.com/Dener-Garcia/Dener-Garcia/assets/107416682/fea00e0f-a3ac-46c2-85fb-c2407e6ba558" /> 
+<p>Eu sou Paulo Henrique Ferreira França, estudante na Mentora e criador de conteúdo de programação e tecnologia.
+Atualmente, estou me especializando em Front-End e compartilhando projetos e aprendizados sobre desenvolvimento web.
+Explore meus repositórios para ver minhas criações e evoluções!</p>
 
-# Oi, Paulo Henrique Ferreira França aqui 🧑🏻‍💻 
-Comecei desenvolvendo interfaces para a indústria com foco em IHM's (interface homem máquina) e hoje sigo criando soluções de pequeno ou grande porte com foco em estratégia, pessoas e tecnologia alavancando resultados através do design.
-   
-Entrego todas as etapas de um produto partindo da descoberta com stakeholders, handoff para os desenvolvedores até testes de usabilidade. Participei de vários projetos de diferentes nichos que vão desde sites institucionais, aplicativos mobile, plataformas web até a criação de design system.
+<div style="display: inline-block;">
+  <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Bootstrap" height="40" width="40" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png">
+  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Gulp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg">
+  <img align="center" alt="Grunt" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grunt/grunt-original.svg">
+  <img align="center" alt="NPM" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="Sass" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="VSCode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Vite" height="40" width="40" src="https://vitejs.dev/logo.svg">
+  <img align="center" alt="DevTools" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg">
+  <img align="center" alt="Less" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg">
+</div>
 
-Motivado a entregar produtos escaláveis ​​que melhoram a experiência das pessoas.
-
-<img align="right" height="auto" width="375" alt="" src="https://github.com/Dener-Garcia/Dener-Garcia/assets/107416682/fdf7b544-ee81-47d4-bf8a-b9552417ea71" /> 
-
-  
-## 📚 Estar em constante evolução
-
-Busco melhorar a cada dia meus projetos através de cursos, mentorias e principalmente criando projetos profissionais ou pessoais.
-Meu foco em estudos se concentram em UX/UI e Front-end.
-Atualmente minhas stacks são:
+<h2>Como entrar em contato comigo:</h2>
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80px" alt="html" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80px" alt="css" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="80px" alt="scss" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80px" alt="javascript" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80px" alt="node" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80px" alt="react" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="80px" alt="figma" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="80px" alt="linux" />        
+  <a href="https://discord.gg/wagxzStdcR" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="mailto:paulohenriqueferreirafranca2@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/paulo-henrique-ferreira-frança-75125626" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://wa.me/5571999541008" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
 </div>
- 
 
-  
-## 🕸️ Me encontre nas redes  
-<div> 
-  <a href="https://www.dener.criarbr.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-e0eef9?style=for-the-badge" target="_blank"></a> 
-  <img width="16" />
-  <a href="https://www.linkedin.com/in/denergarcia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <img width="16" />
-  <a href="https://www.youtube.com/@dener.criarbr" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <img width="16" />
-  <a href="https://instagram.com/dener.criarbr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <img width="16" />
-  <a href = "mailto:dener.criarbr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-<div>
-
-</br>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dener-Garcia&show_icons=true&theme=transparent)
+<img src="https://github-readme-stats.vercel.app/api?username=PauloHenrique993940&bg_color=07070d&title_color=52b540&text_color=fff&icon_color=FFA500&border_color=CCCCCC" alt="Anurag's GitHub stats">
 
 
