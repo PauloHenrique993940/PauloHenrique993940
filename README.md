@@ -1,6 +1,6 @@
 <h1>Ólá, Sou Desenvolvedor Web | Front-end</h1>
 
-<p>Eu sou Paulo Henrique  e criador de conteúdo de programação e tecnologia.
+<p>Eu sou Paulo Henrique Ferreira França, estudante na Mentorama e criador de conteúdo de programação e tecnologia.
 Atualmente, estou me especializando em Front-End e compartilhando projetos e aprendizados sobre desenvolvimento web.
 Explore meus repositórios para ver minhas criações e evoluções!</p>
 
@@ -37,7 +37,7 @@ Explore meus repositórios para ver minhas criações e evoluções!</p>
   <a href="mailto:paulohenriqueferreirafranca2@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/paulo-henrique-ferreira-frança-75125626" target="_blank">
+  <a href="https://www.linkedin.com/in/paulo-henrique-ferreira-fran%C3%A7a-75125626" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://wa.me/5571999541008" target="_blank">
@@ -46,9 +46,11 @@ Explore meus repositórios para ver minhas criações e evoluções!</p>
 </div>
 
 <h2>Estatísticas do GitHub</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=PauloHenrique993940&bg_color=07070d&title_color=52b540&text_color=fff&icon_color=FFA500&border_color=CCCCCC" alt="GitHub Stats">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PauloHenrique993940&theme=dark" alt="GitHub Streak">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenrique993940&layout=compact&theme=dark" alt="Linguagens mais usadas">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=PauloHenrique993940&bg_color=07070d&title_color=52b540&text_color=fff&icon_color=FFA500&border_color=CCCCCC" alt="GitHub Stats" style="border: 2px solid #52b540; border-radius: 10px;">
+  
+  <img src="https://streak-stats.demolab.com/?user=PauloHenrique993940&theme=dark" alt="GitHub Streak" style="border: 2px solid #FFA500; border-radius: 10px;">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenrique993940&layout=compact&theme=dark" alt="Linguagens mais usadas" style="border: 2px solid #0077B5; border-radius: 10px;">
+</div>
 
