@@ -1,3 +1,4 @@
+<h1>Desenvolvedor Web | Front-End </h1>
 <p>Eu sou Paulo Henrique Ferreira França, estudante na Mentora e criador de conteúdo de programação e tecnologia.  
 Atualmente, estou me especializando em Front-End e compartilhando projetos e aprendizados sobre desenvolvimento web.  
 Explore meus repositórios para ver minhas criações e evoluções!</p>
@@ -39,7 +40,7 @@ Explore meus repositórios para ver minhas criações e evoluções!</p>
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </div>
-
+## Estatistica do GitHub
 <img src="https://github-readme-stats.vercel.app/api?username=PauloHenrique993940&bg_color=07070d&title_color=52b540&text_color=fff&icon_color=FFA500&border_color=CCCCCC" alt="Anurag's GitHub stats">
 
 
