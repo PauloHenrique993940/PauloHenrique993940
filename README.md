@@ -1,52 +1,55 @@
-<h1 style="text-center"> Olá Sou Paulo Henrique </h1>
-<p>Desenvolvedor Front-End com formação em Análise e Desenvolvimento de Sistemas, especializado em criar interfaces web dinâmicas e de alta performance. Tenho experiência prática no desenvolvimento de aplicações web, incluindo a criação de sistemas como gerenciadores de tarefas e páginas web, com otimizações que reduziram o tempo de carregamento em até 40%, proporcionando uma melhor experiência ao usuário.
-Habilidades Técnicas:
-Linguagens: HTML5, CSS3, JavaScript, TypeScript, Vue.js, React.js
-Ferramentas e Tecnologias: Bootstrap, JQuery, Sass, Less, Redux, Styled-Components, Material UI, Git/GitHub, JSON, NPM
-Metodologias: Mobile-First, Acessibilidade Web (WCAG), Scrum, Kanban
-Outros: Gulp, Grunt, otimização de desempenho, design responsivo, testes de usabilidade
-Com foco em acessibilidade web e boas práticas de desenvolvimento, aplico conceitos de Mobile-First e design responsivo para garantir uma experiência consistente em diferentes dispositivos. Tenho experiência com frameworks modernos e ferramentas de controle de versão, além de estar sempre aprimorando meus conhecimentos em metodologias ágeis.
-</p>
+# 👋 Olá, eu sou Paulo Henrique Ferreira França!
 
-## Tecnologias que utilizo
-<div style="display: inline-block;">
-  <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bootstrap" height="40" width="40" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png">
-  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Gulp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg">
-  <img align="center" alt="Grunt" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grunt/grunt-original.svg">
-  <img align="center" alt="NPM" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
-  <img align="center" alt="Sass" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="VSCode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="Vite" height="40" width="40" src="https://vitejs.dev/logo.svg">
-  <img align="center" alt="DevTools" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg">
-  <img align="center" alt="Less" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg">
-</div>
+💻 Desenvolvedor Web | Front-End 🚀  
+📍 Localização: Brasil  
 
-<h2>Como entrar em contato comigo:</h2>
+---
 
-<div>
-  <a href="https://discord.gg/wagxzStdcR" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="mailto:paulohenriqueferreirafranca2@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/paulo-henrique-ferreira-frança-75125626" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://wa.me/5571999541008" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-</div>
-## Estatistica do GitHub
+## 📊 Minhas Estatísticas
 <img src="https://github-readme-stats.vercel.app/api?username=PauloHenrique993940&bg_color=07070d&title_color=52b540&text_color=fff&icon_color=FFA500&border_color=CCCCCC" alt="Anurag's GitHub stats">
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=paulohenriquefranca&layout=compact&theme=dracula)
+
+---
+
+## 🚀 Tecnologias que uso
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=gulp&logoColor=white)
+![Grunt](https://img.shields.io/badge/Grunt-FBA919?style=flat&logo=grunt&logoColor=black)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🏆 Projetos em Destaque
+🔹 [📚 Book Catalog](https://github.com/paulohenriquefranca/book-catalog) - Aplicação para organizar livros.  
+🔹 [🎬 Movie List](https://github.com/paulohenriquefranca/movie-list) - Catálogo de filmes e séries.  
+🔹 [🛒 Loja Tech](https://github.com/paulohenriquefranca/loja-tech) - E-commerce de tecnologia.  
+🔹 [📌 ToDo List API](https://github.com/paulohenriquefranca/todo-list-api) - Lista de tarefas integrada com API.  
+
+---
+
+## 📫 Onde me encontrar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulohenriquefranca)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=flat&logo=firefox&logoColor=white)](https://paulohenriquefranca.dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:paulohenriqueferreirafranca2@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5571999541008)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/wagxzStdcR)
+
+---
+
+![Visitantes](https://komarev.com/ghpvc/?username=paulohenriquefranca&color=blue)
 
 
 
