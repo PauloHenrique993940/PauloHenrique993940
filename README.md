@@ -1,7 +1,12 @@
-<h1>Desenvolvedor Web | Front-End </h1>
-<p>Eu sou Paulo Henrique Ferreira França, estudante na Mentora e criador de conteúdo de programação e tecnologia.  
-Atualmente, estou me especializando em Front-End e compartilhando projetos e aprendizados sobre desenvolvimento web.  
-Explore meus repositórios para ver minhas criações e evoluções!</p>
+<h1 style="text-center"> Olá Sou Paulo Henrique </h1>
+<p>Desenvolvedor Front-End com formação em Análise e Desenvolvimento de Sistemas, especializado em criar interfaces web dinâmicas e de alta performance. Tenho experiência prática no desenvolvimento de aplicações web, incluindo a criação de sistemas como gerenciadores de tarefas e páginas web, com otimizações que reduziram o tempo de carregamento em até 40%, proporcionando uma melhor experiência ao usuário.
+Habilidades Técnicas:
+Linguagens: HTML5, CSS3, JavaScript, TypeScript, Vue.js, React.js
+Ferramentas e Tecnologias: Bootstrap, JQuery, Sass, Less, Redux, Styled-Components, Material UI, Git/GitHub, JSON, NPM
+Metodologias: Mobile-First, Acessibilidade Web (WCAG), Scrum, Kanban
+Outros: Gulp, Grunt, otimização de desempenho, design responsivo, testes de usabilidade
+Com foco em acessibilidade web e boas práticas de desenvolvimento, aplico conceitos de Mobile-First e design responsivo para garantir uma experiência consistente em diferentes dispositivos. Tenho experiência com frameworks modernos e ferramentas de controle de versão, além de estar sempre aprimorando meus conhecimentos em metodologias ágeis.
+</p>
 
 ## Tecnologias que utilizo
 <div style="display: inline-block;">
