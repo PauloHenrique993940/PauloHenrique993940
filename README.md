@@ -6,7 +6,11 @@
 ---
 
 ## 📊 Minhas Estatísticas
-<img src="https://github-readme-stats.vercel.app/api?username=PauloHenrique993940&bg_color=07070d&title_color=52b540&text_color=fff&icon_color=FFA500&border_color=CCCCCC" alt="Anurag's GitHub stats">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PauloHenrique993940&bg_color=1e1e2f&title_color=4b9efc&text_color=f0f0f0&icon_color=ff7f50&border_color=00bcd4" alt="GitHub Stats">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenrique993940&layout=compact&bg_color=1e1e2f&title_color=4b9efc&text_color=f0f0f0&icon_color=ff7f50&border_color=00bcd4" alt="Top Languages">
+</p>
+
 
 ---
 
