@@ -33,7 +33,7 @@
 ---
 
 ## 🏆 Projetos em Destaque
-🔹 [📚 Book Catalog](https://github.com/paulohenriquefranca/book-catalog) - Aplicação para organizar livros.  
+🔹 [📚 Efood ](efood-seven-azure.vercel.app) - Aplicação Experiencia  Gastronômica  
 🔹 [🎬 Movie List](https://github.com/paulohenriquefranca/movie-list) - Catálogo de filmes e séries.  
 🔹 [🛒 Loja Tech](https://github.com/paulohenriquefranca/loja-tech) - E-commerce de tecnologia.  
 🔹 [📌 ToDo List API](https://github.com/paulohenriquefranca/todo-list-api) - Lista de tarefas integrada com API.  
