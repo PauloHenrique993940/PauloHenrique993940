@@ -8,8 +8,6 @@
 ## 📊 Minhas Estatísticas
 <img src="https://github-readme-stats.vercel.app/api?username=PauloHenrique993940&bg_color=07070d&title_color=52b540&text_color=fff&icon_color=FFA500&border_color=CCCCCC" alt="Anurag's GitHub stats">
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=paulohenriquefranca&layout=compact&theme=dracula)
-
 ---
 
 ## 🚀 Tecnologias que uso
@@ -33,7 +31,7 @@
 ---
 
 ## 🏆 Projetos em Destaque
-🔹 [📚 Efood ](efood-seven-azure.vercel.app) - Aplicação Experiencia  Gastronômica  
+🔹 [📚 Efood ](https://github.com/PauloHenrique993940/efood.git) - Aplicação Experiencia  Gastronômica com integrada com API> 
 🔹 [🎬 Movie List](https://github.com/paulohenriquefranca/movie-list) - Catálogo de filmes e séries.  
 🔹 [🛒 Loja Tech](https://github.com/paulohenriquefranca/loja-tech) - E-commerce de tecnologia.  
 🔹 [📌 ToDo List API](https://github.com/paulohenriquefranca/todo-list-api) - Lista de tarefas integrada com API.  
