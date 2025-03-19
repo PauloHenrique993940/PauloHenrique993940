@@ -32,9 +32,6 @@
 
 ## 🏆 Projetos em Destaque
 🔹 [📚 Efood ](https://github.com/PauloHenrique993940/efood.git) - Aplicação Experiencia  Gastronômica com integrada com API> 
-🔹 [🎬 Movie List](https://github.com/paulohenriquefranca/movie-list) - Catálogo de filmes e séries.  
-🔹 [🛒 Loja Tech](https://github.com/paulohenriquefranca/loja-tech) - E-commerce de tecnologia.  
-🔹 [📌 ToDo List API](https://github.com/paulohenriquefranca/todo-list-api) - Lista de tarefas integrada com API.  
 
 ---
 
