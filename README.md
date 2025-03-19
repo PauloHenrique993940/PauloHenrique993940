@@ -31,7 +31,7 @@
 ---
 
 ## 🏆 Projetos em Destaque
-🔹 [📚 Efood ](https://github.com/PauloHenrique993940/efood.git) - Aplicação Experiencia  Gastronômica com integrada com API> 
+🔹 [📚 Efood ](https://github.com/PauloHenrique993940/efood.git) - Aplicação Experiencia  Gastronômica integrada com API> 
 
 ---
 
