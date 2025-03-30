@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Paulo Henrique Ferreira França!
 
-💻 Desenvolvedor Web | Front-End 🚀  
-📍 Localização: Brasil  
+💻 **Desenvolvedor Web | Front-End** 🚀  
+📍 **Localização:** Brasil  
 
 ---
 
@@ -10,7 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=PauloHenrique993940&bg_color=1e1e2f&title_color=4b9efc&text_color=f0f0f0&icon_color=ff7f50&border_color=00bcd4" alt="GitHub Stats">
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenrique993940&layout=compact&bg_color=1e1e2f&title_color=4b9efc&text_color=f0f0f0&icon_color=ff7f50&border_color=00bcd4" alt="Top Languages">
 </p>
-
 
 ---
 
@@ -35,20 +34,21 @@
 ---
 
 ## 🏆 Projetos em Destaque
-🔹 [📚 Efood ](https://github.com/PauloHenrique993940/efood.git) - Aplicação Experiencia  Gastronômica integrada com API> 
+🔹 [📚 Efood](https://github.com/PauloHenrique993940/efood.git) - Aplicação Experiência Gastronômica integrada com API.
 
 ---
 
 ## 📫 Onde me encontrar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulohenriquefranca)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=flat&logo=firefox&logoColor=white)](https://paulohenriquefranca.dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:paulohenriqueferreirafranca2@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5571999541008)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulohenriquefranca)  
+[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=flat&logo=firefox&logoColor=white)](https://paulohenriquefranca.dev)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:paulohenriqueferreirafranca2@gmail.com)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5571999541008)  
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/wagxzStdcR)
 
 ---
 
-![Visitantes](https://komarev.com/ghpvc/?username=paulohenriquefranca&color=blue)
+![Visitantes](https://komarev.com/ghpvc/?username=paulohenriquefranca)
+
 
 
 
