@@ -3,6 +3,8 @@
 💻 **Desenvolvedor Web | Front-End** 🚀  
 📍 **Localização:** Brasil  
 
+Sou apaixonado por tecnologia e desenvolvimento web, com experiência na criação de sites responsivos e aplicações interativas. Tenho um grande interesse em melhorar a experiência do usuário, sempre buscando novas maneiras de otimizar a performance e a usabilidade dos meus projetos. Estou constantemente aprendendo novas tecnologias e frameworks, como React e TypeScript, e acredito que a colaboração em equipe e a troca de conhecimentos são essenciais para o crescimento profissional. Se você está interessado em colaborar em projetos interessantes ou aprender mais sobre o que faço, fique à vontade para entrar em contato!
+
 ---
 
 ## 📊 Minhas Estatísticas
@@ -48,6 +50,7 @@
 ---
 
 ![Visitantes](https://komarev.com/ghpvc/?username=paulohenriquefranca)
+
 
 
 
