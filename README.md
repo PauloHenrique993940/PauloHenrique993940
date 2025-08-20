@@ -3,11 +3,13 @@
 💻 **Desenvolvedor Front-End**  
 📍 **Brasil**  
 
-Sou apaixonado por tecnologia e desenvolvimento web. Crio interfaces modernas, responsivas e acessíveis, sempre com foco na experiência do usuário. Estou em constante evolução, aprendendo ferramentas como **React**, **TypeScript** e outras tecnologias que impulsionam meus projetos. Acredito no poder da colaboração e estou sempre pronto para novos desafios!
+Sou apaixonado por tecnologia e **desenvolvimento web**, criando **interfaces modernas, responsivas e acessíveis**, sempre com foco na **experiência do usuário**.  
+Atualmente, estou evoluindo minhas habilidades em **React** e **TypeScript**, além de explorar ferramentas que tornam meus projetos ainda mais **dinâmicos e performáticos**.  
+Acredito no poder da colaboração e estou sempre pronto para novos desafios! 🚀  
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias que uso no Front-End  
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -15,17 +17,19 @@ Sou apaixonado por tecnologia e desenvolvimento web. Crio interfaces modernas, r
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Material-UI](https://img.shields.io/badge/MUI-0081CB?style=flat&logo=mui&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+
+### ⚙️ Outras ferramentas do dia a dia:
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PauloHenrique993940&show_icons=true&theme=tokyonight&border_radius=8" height="180px" />
@@ -34,13 +38,13 @@ Sou apaixonado por tecnologia e desenvolvimento web. Crio interfaces modernas, r
 
 ---
 
-## 🏆 Projetos em Destaque
+## 🏆 Projetos em Destaque  
 
-🔹 [**Efood**](https://github.com/PauloHenrique993940/efood.git) – Aplicação gastronômica integrada com API.  
+🔹 [**Efood**](https://github.com/PauloHenrique993940/efood.git) – Aplicação gastronômica integrada com API, com foco em **UI/UX moderno** e **responsividade**.  
 
 ---
 
-## 📫 Contato
+## 📫 Onde me encontrar  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulohenriquefranca)
 [![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=firefox&logoColor=white)](https://paulohenriquefranca.dev)
@@ -53,6 +57,7 @@ Sou apaixonado por tecnologia e desenvolvimento web. Crio interfaces modernas, r
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=paulohenriquefranca&color=blue" alt="Profile views" />
 </div>
+
 
 
 
