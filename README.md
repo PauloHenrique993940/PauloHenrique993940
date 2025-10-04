@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Olá, sou Paulo Henrique 👋</h1>
 
-  <!-- Texto animado -->
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=06B6D4&center=true&vCenter=true&repeat=true&width=600&lines=Desenvolvedor+Front-end" alt="Typing SVG" />
   </p>
@@ -28,6 +27,21 @@
   <p>
     Minha missão é ajudar profissionais de tecnologia multi-apaixonados a integrar sua identidade completa em suas carreiras.
     Foco em construir pontes entre cultura e tecnologia, e documentar a jornada de funcionário a empreendedor.
+  </p>
+
+  <p>
+    📍 Localizado em **Salvador-BA**, disponível para trabalho **remoto** e **híbrido**.
+  </p>
+  
+  <hr>
+
+  ## 🎨 Minha Jornada e Paixão pelo Front-End
+  <p>
+    Meu interesse pelo desenvolvimento Front-End nasceu da vontade de **transformar ideias em experiências visuais que encantam**.
+    Sempre gostei de **design** e **tecnologia**, e descobri no Front-End o lugar perfeito para **unir criatividade e lógica** na criação de interfaces interativas, acessíveis e envolventes.
+  </p>
+  <p>
+    O que mais me motiva é ver uma página **ganhar vida** com animações, cores e uma usabilidade pensada no usuário final. Para mim, cada projeto é uma oportunidade de **contar uma história** e entregar **valor real** por meio do código.
   </p>
   
   <hr>
