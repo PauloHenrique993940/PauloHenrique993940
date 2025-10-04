@@ -1,6 +1,11 @@
 <div align="center">
   <h1>Olá, sou Paulo Henrique 👋</h1>
 
+  <!-- Texto animado -->
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=06B6D4&center=true&vCenter=true&repeat=true&width=450&lines=Desenvolvedor+Front-end" alt="Typing SVG" />
+  </p>
+
   <h2>Conecte-se comigo!</h2>
   <p>
     <a href="https://www.linkedin.com/in/paulohenriquefranca" target="_blank">
@@ -18,7 +23,7 @@
 
   <p>
     Sou <strong>Paulo Henrique Ferreira França</strong> (ele/dele).
-    Sou um **Desenvolvedor Front-end** em busca de desenvolvimento de carreira com múltiplas paixões.
+    Sou um <strong>Desenvolvedor Front-end</strong> em busca de desenvolvimento de carreira com múltiplas paixões.
   </p>
   <p>
     Minha missão é ajudar profissionais de tecnologia multi-apaixonados a integrar sua identidade completa em suas carreiras.
@@ -57,3 +62,4 @@
     Estou sempre procurando me conectar com outros profissionais multi-apaixonados e construtores de pontes culturais.
   </p>
 </div>
+
