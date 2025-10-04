@@ -3,7 +3,7 @@
 
   <!-- Texto animado -->
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=06B6D4&center=true&vCenter=true&repeat=true&width=450&lines=Desenvolvedor+Front-end" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=06B6D4&center=true&vCenter=true&repeat=true&width=600&lines=Desenvolvedor+Front-end" alt="Typing SVG" />
   </p>
 
   <h2>Conecte-se comigo!</h2>
@@ -19,7 +19,7 @@
     </a>
   </p>
   
-  ---
+  <hr>
 
   <p>
     Sou <strong>Paulo Henrique Ferreira França</strong> (ele/dele).
@@ -30,7 +30,7 @@
     Foco em construir pontes entre cultura e tecnologia, e documentar a jornada de funcionário a empreendedor.
   </p>
   
-  ---
+  <hr>
 
   <h2>💻 Minhas Skills em Front-end</h2>
   <p>
@@ -40,12 +40,16 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
-  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/styledcomponents/styledcomponents-original.svg" width="40" height="40" alt="Styled Components"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" alt="Jest"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" width="40" height="40" alt="Cypress"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40" alt="Trello"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" height="40" alt="Notion"/>
   </p>
 
-  ---
+  <hr>
 
   <h2>🌟 O que me inspira 🌟</h2>
   <p>
@@ -55,12 +59,11 @@
     Exploro a <strong>integração de carreira</strong>, a criação de <strong>pontes culturais-tecnológicas</strong> e a <strong>construção de comunidade</strong> para profissionais como eu.
   </p>
 
-  ---
+  <hr>
   
   <h2>🤝 Vamos Conectar! 🚀</h2>
   <p>
     Estou sempre procurando me conectar com outros profissionais multi-apaixonados e construtores de pontes culturais.
   </p>
 </div>
-
 
