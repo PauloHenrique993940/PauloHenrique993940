@@ -36,9 +36,9 @@ Eu sou **Paulo Henrique**, um Desenvolvedor **Front-end** com a missão de trans
 
 O Front-end é o meu playground, o ponto de convergência perfeito entre **criatividade, lógica e UX/UI**. É aqui que eu consigo:
 
-* ✨ **Encantar o Usuário:** Criando o primeiro impacto e mantendo a navegação fluida.
-* ⚡ **Injetar Vida:** Dando movimento e interatividade com animações e micro-interações bem planejadas.
-* 🎯 **Focar no Resultado:** Desenvolvendo soluções eficientes, acessíveis e centradas nas necessidades reais do usuário.
+✨ **Encantar o Usuário:** Criando o primeiro impacto e mantendo a navegação fluida.
+⚡ **Injetar Vida:** Dando movimento e interatividade com animações e micro-interações bem planejadas.
+🎯 **Focar no Resultado:** Desenvolvendo soluções eficientes, acessíveis e centradas nas necessidades reais do usuário.
 
 **Cada linha de código React/Next.js é um passo em direção a uma história de sucesso digital!**
 
@@ -85,9 +85,9 @@ O Front-end é o meu playground, o ponto de convergência perfeito entre **criat
 
 Estou sempre aberto a:
 
-* 🌐 Novas conexões e troca de conhecimento.
-* 💡 Colaborações em projetos desafiadores e inovadores.
-* 📢 Conversar sobre boas práticas de UI/UX e performance.
+🌐 Novas conexões e troca de conhecimento.
+💡 Colaborações em projetos desafiadores e inovadores.
+📢 Conversar sobre boas práticas de UI/UX e performance.
 
 **Sua ideia + meu código = sucesso garantido.** Sinta-se à vontade para me contatar em qualquer uma das redes acima!
 
