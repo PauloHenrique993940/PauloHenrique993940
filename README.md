@@ -6,9 +6,7 @@
 
 ---
 
-## 🔗 Me encontre na rede!
-
-*Sua próxima experiência digital começa aqui.*
+## 🔗 Me encontre na rede
 
 <a href="https://www.linkedin.com/in/paulohenriquefranca" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -47,7 +45,6 @@ O Front-end é o meu playground, o ponto de convergência perfeito entre **criat
 ## 🛠️ Meu Arsenal Tecnológico
 
 ### **Linguagens, Frameworks & Ecossistema** ⚛️
-*Focado em performance e manutenibilidade.*
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="45"/>
@@ -59,7 +56,6 @@ O Front-end é o meu playground, o ponto de convergência perfeito entre **criat
 </p>
 
 ### **Ferramentas, Testes & Organização** ⚙️
-*Mantendo o código limpo e o fluxo de trabalho ágil.*
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="45"/>
@@ -72,8 +68,6 @@ O Front-end é o meu playground, o ponto de convergência perfeito entre **criat
 
 ## 🔥 Meu Desempenho no GitHub
 
-*Veja um pouco da minha dedicação e foco nas tecnologias.*
-
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=PauloHenrique993940&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenrique993940&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" />
@@ -85,13 +79,12 @@ O Front-end é o meu playground, o ponto de convergência perfeito entre **criat
 
 Estou sempre aberto a:
 
-🌐 Novas conexões e troca de conhecimento.
-💡 Colaborações em projetos desafiadores e inovadores.
-📢 Conversar sobre boas práticas de UI/UX e performance.
+Novas conexões e troca de conhecimento.
+Colaborações em projetos desafiadores e inovadores.
+Conversar sobre boas práticas de UI/UX e performance.
 
 **Sua ideia + meu código = sucesso garantido.** Sinta-se à vontade para me contatar em qualquer uma das redes acima!
 
 **#CodeWithPassion #FrontendDev** 🚀
 
 </div>
-
