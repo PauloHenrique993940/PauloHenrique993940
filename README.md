@@ -138,18 +138,6 @@ E-commerce moderno e escalável.
 
 ---
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=PauloHenrique993940&show_icons=true&theme=tokyonight&hide_border=true"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenrique993940&layout=compact&theme=tokyonight&hide_border=true"
-    height="160"
-  />
-</div>
-
-
 
 ---
 
