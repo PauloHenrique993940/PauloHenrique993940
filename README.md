@@ -1,90 +1,164 @@
 <div align="center">
 
-# ✨ Olá! Eu sou **Paulo Henrique**, seu Desenvolvedor Front-end! 👋
+# 👋 Olá! Eu sou **Paulo Henrique**
+### Desenvolvedor Front-end • React • TypeScript
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=06B6D4&center=true&vCenter=true&repeat=true&width=600&lines=Desenvolvedor+Front-end+React;Criando+interfaces+modernas+e+engajadoras;UI+%2F+UX+%7C+JavaScript+%7C+TypeScript" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=06B6D4&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-end+React;Interfaces+modernas%2C+responsivas+e+performáticas;UI%2FUX+%7C+JavaScript+%7C+TypeScript" />
 
----
-
-## 🔗 Me encontre na rede
+📍 Salvador – BA  
+📧 **paulohenriqueferreirafranca2@gmail.com**  
+📞 **(71) 99306-1316**
 
 <a href="https://www.linkedin.com/in/paulohenriquefranca" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://portifolio-front-end-paulo-henrique.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfólio-1F76C4?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://paulo-front-emd.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-1F76C4?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://github.com/PauloHenrique993940" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
----
-
-## 💡 Sobre o Front-end e Eu
-
-Eu sou **Paulo Henrique**, um Desenvolvedor **Front-end** com a missão de transformar **ideias incríveis em interfaces visuais** que as pessoas amam usar. Sou movido pela paixão de construir experiências **modernas, responsivas, performáticas e, acima de tudo, intuitivas**.
-
-> Minha filosofia é: **Design + Código = Experiência memorável!**
-
-📍 Salvador – BA | 🚀 Buscando sempre a próxima oportunidade **remota** ou **híbrida**.
+</div>
 
 ---
 
-## 🎨 Onde a Lógica Encontra a Arte (Minha Jornada)
+## 🚀 Sobre Mim
 
-O Front-end é o meu playground, o ponto de convergência perfeito entre **criatividade, lógica e UX/UI**. É aqui que eu consigo:
+Sou **graduando em Engenharia de Software** e **pós-graduando em Desenvolvimento Front-End**, com formação técnica em **Análise e Desenvolvimento de Sistemas**.  
+Atuo com foco em **interfaces modernas, escaláveis e acessíveis**, utilizando **React, TypeScript e boas práticas de UI/UX**.
 
-✨ **Encantar o Usuário:** Criando o primeiro impacto e mantendo a navegação fluida.
-⚡ **Injetar Vida:** Dando movimento e interatividade com animações e micro-interações bem planejadas.
-🎯 **Focar no Resultado:** Desenvolvendo soluções eficientes, acessíveis e centradas nas necessidades reais do usuário.
+Tenho experiência sólida em projetos práticos e cursos imersivos, com destaque entre os **Top 50** no curso Full Stack.  
+Sou especialista em **componentização, SPA, Mobile-First, performance e acessibilidade**, sempre buscando entregar experiências fluidas e centradas no usuário.
 
-**Cada linha de código React/Next.js é um passo em direção a uma história de sucesso digital!**
-
----
-
-## 🛠️ Meu Arsenal Tecnológico
-
-### **Linguagens, Frameworks & Ecossistema** ⚛️
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/styledcomponents/styledcomponents-original.svg" alt="Styled-Components" title="Styled-Components" width="45"/>
-</p>
-
-### **Ferramentas, Testes & Organização** ⚙️
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" title="Jest" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" title="Trello" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion" title="Notion" width="45"/>
-</p>
+> **Design bem pensado + Código limpo = Experiência memorável**
 
 ---
 
-## 🔥 Meu Desempenho no GitHub
+## 🛠️ Tecnologias
+
+**Linguagens & Frameworks**
+- HTML5 • CSS3 • JavaScript (ES6+) • TypeScript  
+- React • Hooks • Context API • SPA  
+
+**Estilização & UI**
+- Tailwind CSS • Bootstrap  
+- Mobile-First • Responsive Design  
+- UX/UI • Acessibilidade (WCAG)
+
+**Ferramentas**
+- Git • GitHub • APIs REST  
+- Scrum • Kanban
+
+---
+
+## 💼 Experiência Profissional
+
+### **PH Code Solutions**
+**Desenvolvedor Front-End** • 02/2023 – Atual  
+- Desenvolvimento de interfaces com **React e TypeScript**
+- Arquitetura modular e componentização
+- Implementação de **Mobile-First** e melhorias de acessibilidade
+- Validação de formulários e feedbacks ao usuário
+- Otimização de performance
+
+**Resultados:**  
+📉 Redução de **30% no tempo de carregamento**  
+📱 Maior fluidez em dispositivos móveis
+
+---
+
+### **Secretaria da Segurança Pública – BA**
+**Auxiliar Administrativo** • 03/2020 – Atual  
+- Análise de dados e controle logístico
+- Criação de planilhas estratégicas
+- Organização de processos e documentação
+- Suporte a equipes multidisciplinares
+
+**Resultados:**  
+📊 Otimização de fluxos e redução de inconsistências operacionais
+
+---
+
+## 🌟 Projetos em Destaque
+
+### 💰 **Clarity Finanças**
+Aplicação SPA para controle financeiro pessoal.
+
+- React • Context API • Hooks
+- CRUD completo de transações
+- Filtros, categorização e cálculos automáticos
+- Interface responsiva e acessível
+
+🔗 **GitHub:** github.com/PauloHenrique993940/controle-financeiro  
+🚀 **Deploy:** controle-financeiro-delta-steel.vercel.app
+
+---
+
+### ✅ **Todo List**
+Gerenciador de tarefas moderno.
+
+- React • TypeScript • Tailwind CSS
+- CRUD com filtros inteligentes
+- Tema claro/escuro
+- Persistência com localStorage
+
+🔗 **GitHub:** github.com/PauloHenrique993940/todoList-app  
+🚀 **Deploy:** todo-list-app-indol-nine.vercel.app
+
+---
+
+### 🛍️ **SyntaxWear**
+E-commerce moderno e escalável.
+
+- React • TypeScript  
+- React Hook Form • Zod  
+- TanStack Router • Tailwind CSS
+
+🔗 **GitHub:** github.com/PauloHenrique993940/syntax-wear-app  
+🚀 **Deploy:** syntax-wear-app.vercel.app
+
+---
+
+## 🎓 Formação Acadêmica
+
+- **Engenharia de Software** – Estácio (Conclusão: 09/2029)
+- **Pós-graduação em Desenvolvimento Front-End** – Anhanguera (07/2026)
+- **Análise e Desenvolvimento de Sistemas** – Unifatecie (2024)
+
+---
+
+## 📜 Cursos & Certificações
+
+- Engenharia Front-End – EBAC (03/2025)
+- Desenvolvimento Web Full Stack – DevemDobro (cursando)
+- Programação Full Stack – Infinity School
+- **Top 50 – Curso Full Stack (2024)**
+- Marketing Pessoal – Unifatecie
+
+---
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PauloHenrique993940&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenrique993940&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=PauloHenrique993940&show_icons=true&theme=tokyonight&hide_border=true"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenrique993940&layout=compact&theme=tokyonight&hide_border=true"
+    height="160"
+  />
 </div>
+
+
 
 ---
 
-## 🤝 Vamos Colaborar e Construir o Próximo Grande Projeto?
+## 🤝 Vamos Construir Algo Incrível?
 
-Estou sempre aberto a:
+Estou aberto a:
+- Oportunidades **remotas ou híbridas**
+- Colaborações em projetos desafiadores
+- Troca de conhecimento sobre **Front-end, UX/UI e performance**
 
-Novas conexões e troca de conhecimento.
-Colaborações em projetos desafiadores e inovadores.
-Conversar sobre boas práticas de UI/UX e performance.
+**Sua ideia + meu código = resultado de alto nível 🚀**
 
-**Sua ideia + meu código = sucesso garantido.** Sinta-se à vontade para me contatar em qualquer uma das redes acima!
-
-**#CodeWithPassion #FrontendDev** 🚀
-
-</div>
