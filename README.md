@@ -27,9 +27,8 @@
 
 ---
 
-## 💞 Sobre Mim
+##  Sobre Mim
 
-```ts
 interface DesenvolvedorFrontend {
   nome: string;
   cargo: string;
