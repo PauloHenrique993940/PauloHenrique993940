@@ -36,7 +36,7 @@ Sou **Paulo Henrique Ferreira França**, graduando em **Engenharia de Software**
 
 Atuo no desenvolvimento de **interfaces modernas**, com foco em **experiência do usuário (UX)**, **responsividade**, **performance** e **boas práticas de arquitetura frontend**.
 
-Tenho como objetivo construir aplicações web escaláveis, acessíveis e visualmente consistentes, unindo **design funcional** com **código limpo e organizado**.
+Busco construir aplicações web escaláveis, acessíveis e visualmente consistentes, unindo **design funcional**, **usabilidade** e **código limpo**.
 
 ---
 
@@ -46,11 +46,11 @@ Tenho como objetivo construir aplicações web escaláveis, acessíveis e visual
 
 ---
 
-## 💻 Stack Tecnológica
+## 💻 Stack Tecnológica (Frontend)
 
-### Frontend
+### Tecnologias Principais
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,git,github&theme=dark"/>
 </div>
 
 - React
@@ -60,32 +60,30 @@ Tenho como objetivo construir aplicações web escaláveis, acessíveis e visual
 - CSS3 moderno
 - Tailwind CSS
 - Bootstrap
+- Git & GitHub
 - Design Responsivo (Mobile First)
 
 ---
 
-### Backend & Integrações
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,git,github&theme=dark"/>
-</div>
-
-- Node.js (noções)
-- Consumo de APIs REST
-- CRUD
-- Integração Frontend com Backend
+### Consumo de APIs & Integrações Frontend
+- Consumo de **APIs REST**
+- Integração com backends externos
+- Manipulação de dados assíncronos (fetch / axios)
+- Tratamento de estados de loading e erro
+- Integração com dashboards e dados dinâmicos
 
 ---
 
-### Ferramentas
+### Ferramentas de Desenvolvimento
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma,vscode,postman,npm&theme=dark"/>
 </div>
 
-- Git & GitHub
 - Figma
 - VS Code
 - Postman
 - NPM
+- Versionamento com Git
 
 ---
 
@@ -95,17 +93,18 @@ Tenho como objetivo construir aplicações web escaláveis, acessíveis e visual
 |-----|------|---------|
 | Frontend | 90% | React, UI, Responsividade |
 | UX/UI | 85% | Usabilidade e Acessibilidade |
-| Integração com APIs | 80% | Consumo e organização de dados |
+| Integração com APIs | 85% | Consumo e organização de dados |
 | Arquitetura Frontend | 75% | Componentização |
 
 ---
 
 ## 🚀 Projetos
 
-- Aplicações CRUD
+- Aplicações Frontend com consumo de APIs
 - Dashboards responsivos
 - Interfaces modernas com React e TypeScript
 - Layouts seguindo boas práticas de UX/UI
+- Projetos com versionamento e histórico no GitHub
 
 📂 **Veja todos os projetos:**  
 👉 https://github.com/PauloHenrique?tab=repositories
@@ -116,7 +115,7 @@ Tenho como objetivo construir aplicações web escaláveis, acessíveis e visual
 
 - Desenvolvedor Frontend Júnior ou Pleno
 - Estágio em Desenvolvimento Frontend  
-- Foco em React, TypeScript e UX/UI  
+- Foco em React, TypeScript, APIs e UX/UI  
 - Disponibilidade imediata  
 - Modelo: Remoto | Híbrido | Presencial  
 
@@ -151,4 +150,5 @@ Tenho como objetivo construir aplicações web escaláveis, acessíveis e visual
 <sub>🚀 README atualizado — Salvador · 2026</sub>
 
 </div>
+
 
