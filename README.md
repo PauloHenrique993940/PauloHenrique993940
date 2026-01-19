@@ -66,3 +66,79 @@ const paulo: DesenvolvedorFrontend = {
   
   aprendendo_atualmente: ["Next.js", "TanStack Router", "Zod/Validações"]
 };
+---
+
+## 💻 Stack Tecnológica
+
+<div align="center">
+
+**Desenvolvimento Frontend** <br/>
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nextjs,bootstrap&theme=dark" />
+
+<br/><br/>
+
+**Ferramentas & Design**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,npm,vercel&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/ACCESSIBILITY-005A9C?style=flat-square&logo=webaccessibilityinitiative&logoColor=white"/>
+
+</div>
+
+---
+
+## 📊 Distribuição de Expertise
+
+<div align="center">
+
+| Área de Atuação | Proficiência | Destaque Principal |
+| :--- | :---: | :--- |
+| **Desenvolvimento Frontend** | ![95%](https://geps.dev/progress/95?dangerColor=8b5cf6&warningColor=6366f1&successColor=2563eb) | React, Hooks, Context API |
+| **Responsividade & UX** | ![90%](https://geps.dev/progress/90?dangerColor=8b5cf6&warningColor=6366f1&successColor=2563eb) | Mobile-first, Tailwind, Figma |
+| **Integração de APIs** | ![85%](https://geps.dev/progress/85?dangerColor=8b5cf6&warningColor=6366f1&successColor=2563eb) | Consumo assíncrono e persistência |
+| **Acessibilidade & UI** | ![80%](https://geps.dev/progress/80?dangerColor=8b5cf6&warningColor=6366f1&successColor=2563eb) | Interfaces inclusivas e semânticas |
+
+</div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 💰 Clarity Finanças
+**Controle Financeiro | React**
+* SPA para gestão de entradas, saídas e saldo em tempo real.
+* 🔗 [GitHub](https://github.com/PauloHenrique993940/controle-financeiro.git) | 🚀 [Deploy](https://controle-financeiro-delta-steel.vercel.app)
+
+### 🛒 SyntaxWear
+**E-commerce | React + TypeScript**
+* Validações robustas com Zod e gerenciamento de estado eficiente.
+* 🔗 [GitHub](https://github.com/PauloHenrique993940/syntax-wear-app) | 🚀 [Deploy](https://syntax-wear-app.vercel.app/)
+
+---
+
+## 📈 Atividade de Contribuições
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PauloHenrique993940&hide_border=true&bg_color=0D1117&color=2563EB&line=0EA5E9&point=38BDF8&area=true"/>
+</div>
+
+---
+
+## 💌 Vamos nos conectar
+
+<div align="center">
+
+| 📞 Telefone | 📧 Email | 💼 LinkedIn |
+| :---: | :---: | :---: |
+| (71) 99306-1316 | paulohenriqueferreirafranca2@gmail.com | [LinkedIn](https://www.linkedin.com/in/paulohenriquefranca/) |
+
+<br/>
+
+💭 *“Frontend não é só visual — é experiência, clareza e performance.”*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,63,187,20,30,100&height=120&section=footer"/>
+
+<sub>✨ Atualizado em Janeiro de 2026</sub>
+
+</div>
