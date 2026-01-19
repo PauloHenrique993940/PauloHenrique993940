@@ -1,127 +1,162 @@
 <div align="center">
 
-# 👨‍💻 Paulo Henrique
-### Desenvolvedor Front-end • React • TypeScript
+<!-- Header Animado Premium -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,30:1D4ED8,70:0EA5E9,100:2563EB&height=200&section=header&text=Paulo%20Henrique%20Ferreira%20França&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Front-End%20React%20|%20Interfaces%20Modernas%20e%20Performáticas&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=06B6D4&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-end+React;Interfaces+modernas%2C+responsivas+e+performáticas;UI%2FUX+%7C+JavaScript+%7C+TypeScript" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=700&lines=Front-end+com+foco+em+UX+e+performance;React+e+TypeScript+no+dia+a+dia;Interfaces+responsivas+e+acessíveis;Código+limpo+e+arquitetura+escalável" />
+</a>
 
-📍 Salvador – BA  
-📧 **paulohenriqueferreirafranca2@gmail.com**
+<br><br>
 
-<a href="https://www.linkedin.com/in/paulohenriquefranca" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/paulohenriquefranca/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://paulo-front-emd.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfólio-1F76C4?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://github.com/PauloHenrique993940">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://github.com/PauloHenrique993940" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://paulo-front-emd.vercel.app">
+  <img src="https://img.shields.io/badge/Portfólio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
+
+<br><br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloHenrique993940&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenrique993940&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🚀 Sobre Mim
+## 🎯 Sobre Mim
 
-Sou **desenvolvedor Front-end**, **graduando em Engenharia de Software** e **pós-graduando em Desenvolvimento Front-End**, com formação técnica em **Análise e Desenvolvimento de Sistemas**.
+```ts
+interface DesenvolvedorFrontend {
+  nome: string;
+  cargo: string;
+  localizacao: string;
+  formacao: string[];
+  stack: string[];
+  diferenciais: string[];
+}
 
-Atuo com foco em **interfaces modernas, escaláveis e acessíveis**, utilizando **React, TypeScript e boas práticas de UI/UX**. Tenho experiência com **SPA, componentização, Mobile-First, performance e acessibilidade**, sempre buscando entregar experiências fluidas e centradas no usuário.
+const paulo: DesenvolvedorFrontend = {
+  nome: "Paulo Henrique Ferreira França",
+  cargo: "Desenvolvedor Front-End React",
+  localizacao: "Salvador - BA",
+  formacao: [
+    "Engenharia de Software (em andamento)",
+    "Pós-graduação em Desenvolvimento Front-End",
+    "Análise e Desenvolvimento de Sistemas"
+  ],
+  stack: [
+    "React",
+    "TypeScript",
+    "JavaScript (ES6+)",
+    "HTML5",
+    "CSS3",
+    "Tailwind CSS",
+    "Bootstrap"
+  ],
+  diferenciais: [
+    "Componentização e arquitetura escalável",
+    "SPAs com React, Hooks e Context API",
+    "Mobile-First, responsividade e acessibilidade",
+    "Integração com APIs REST e foco em performance"
+  ]
+};
+💻 Stack Tecnológica
+<div align="center">
+Front-End
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap&theme=dark" />
+Ferramentas & Versionamento
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,npm&theme=dark" /> </div>
+📊 Distribuição de Expertise
+<div align="center">
+Área	Proficiência	Destaque
+Frontend (React)	████████████████████░ 95%	SPAs, componentes e estado
+Responsividade & Mobile-First	███████████████████░░ 90%	UX consistente em todos dispositivos
+APIs & Integrações	██████████████████░░░ 85%	Consumo assíncrono e organização
+UX/UI & Acessibilidade	█████████████████░░░░ 80%	Interfaces claras e inclusivas
+</div>
+🚀 Projetos em Destaque
+💰 Clarity Finanças
 
-> **Design bem pensado + Código limpo = Experiência memorável**
+Controle Financeiro Pessoal | React
 
----
+SPA para gestão de entradas, saídas e saldo em tempo real
 
-## 🤖 Linguagens e Tecnologias
+Context API, Hooks e CRUD completo
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30"/>
-</p>
+Filtros, ordenação e validações
 
----
+Interface responsiva e acessível
 
-## 💼 Experiência Profissional
+🔗 GitHub: https://github.com/PauloHenrique993940/controle-financeiro.git
 
-### **PH Code Solutions**
-**Desenvolvedor Front-end** • 02/2023 – Atual  
-- Desenvolvimento de interfaces com **React e TypeScript**
-- Arquitetura modular e componentização
-- Implementação de **Mobile-First** e melhorias de acessibilidade
-- Otimização de performance
+🚀 Deploy: https://controle-financeiro-delta-steel.vercel.app
 
-📉 **Redução de 30% no tempo de carregamento**
+✅ Todo List
 
----
+Gerenciador de Tarefas | React + TypeScript
 
-### **Secretaria da Segurança Pública – BA**
-**Auxiliar Administrativo** • 03/2020 – Atual  
-- Análise de dados e controle logístico
-- Criação de planilhas estratégicas
-- Organização de processos
+CRUD completo com filtros inteligentes
 
-📊 **Otimização de fluxos e redução de inconsistências operacionais**
+Persistência via localStorage
 
----
+Tema claro/escuro
 
-## 🌟 Projetos em Destaque
+Componentização e Clean Code
 
-### 💰 Clarity Finanças
-Aplicação SPA para controle financeiro pessoal.
+🔗 GitHub: https://github.com/PauloHenrique993940/todoList-app
 
-- React • Context API • Hooks
-- CRUD completo de transações
-- Interface responsiva e acessível
+🚀 Deploy: https://todo-list-app-indol-nine.vercel.app/
 
-🔗 **GitHub:** https://github.com/PauloHenrique993940/controle-financeiro  
-🚀 **Deploy:** https://controle-financeiro-delta-steel.vercel.app
+🛒 SyntaxWear
 
----
+E-commerce | React + TypeScript
 
-### ✅ Todo List
-Gerenciador de tarefas moderno.
+React Hook Form + Zod
 
-- React • TypeScript • Tailwind CSS
-- CRUD com filtros inteligentes
-- Tema claro/escuro
+Validações robustas
 
-🔗 **GitHub:** https://github.com/PauloHenrique993940/todoList-app  
-🚀 **Deploy:** https://todo-list-app-indol-nine.vercel.app
+Gerenciamento de estado eficiente
 
----
+Navegação com TanStack Router
 
-### 🛍️ SyntaxWear
-E-commerce moderno e escalável.
+Interface moderna e acessível
 
-- React • TypeScript
-- React Hook Form • Zod
-- Tailwind CSS
+🔗 GitHub: https://github.com/PauloHenrique993940/syntax-wear-app
 
-🔗 **GitHub:** https://github.com/PauloHenrique993940/syntax-wear-app  
-🚀 **Deploy:** https://syntax-wear-app.vercel.app
+🚀 Deploy: https://syntax-wear-app.vercel.app/
 
----
+📈 Atividade de Contribuições
+<div align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PauloHenrique993940&hide_border=true&bg_color=0D1117&color=2563EB&line=0EA5E9&point=38BDF8&area=true"/> </div>
+🎯 Objetivo Profissional
+cargo: Desenvolvedor Front-End Júnior / Pleno
+foco:
+  - React
+  - TypeScript
+  - UX/UI
+modelo_trabalho: [Remoto, Híbrido, Presencial]
+disponibilidade: Imediata
+localizacao: Salvador - BA
 
-## 🎓 Formação Acadêmica
+💌 Vamos nos conectar
+<div align="center">
 
-- **Engenharia de Software** – Estácio (Conclusão: 09/2029)
-- **Pós-graduação em Desenvolvimento Front-End** – Anhanguera (07/2026)
-- **Análise e Desenvolvimento de Sistemas** – Unifatecie (2024)
+📞 Telefone: (71) 99306-1316
+📧 Email: paulohenriqueferreirafranca2@gmail.com
 
----
+💼 LinkedIn: https://www.linkedin.com/in/paulohenriquefranca/
 
-## 🤝 Vamos Construir Algo Incrível?
+🌐 Portfólio: https://paulo-front-emd.vercel.app
 
-- Oportunidades **remotas ou híbridas**
-- Projetos Front-end com **React e TypeScript**
-- Colaborações e troca de conhecimento
+</div>
+<div align="center">
+💭 “Frontend não é só visual — é experiência, clareza e performance.”
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,30:1D4ED8,70:0EA5E9,100:2563EB&height=120&section=footer"/>
 
-🚀 **Sua ideia + meu código = resultado de alto nível**
+<sub>✨ Atualizado em Janeiro de 2026</sub>
 
-
+</div> ```
