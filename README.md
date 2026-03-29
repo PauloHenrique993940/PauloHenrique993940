@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,30:4F46E5,70:7C3AED,100:2563EB&height=200&section=header&text=Paulo%20Henrique%20Ferreira%20França&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Engenharia%20de%20Software%20|%20Desenvolvedor%20Front-End%20|%20UI%20e%20Experiência%20do%20Usuário&descAlignY=55&descSize=18"/>
+<!-- Header (mantido, mas simplificado para evitar quebra) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Paulo%20Henrique%20Ferreira%20Fran%C3%A7a&fontSize=40&fontColor=ffffff"/>
 
 <br>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=4F46E5&center=true&vCenter=true&width=700&lines=Interfaces+modernas+com+foco+em+UX;Frontend+com+arquitetura+e+performance;Código+limpo+e+design+intencional;Construindo+produtos+digitais+escaláveis"/>
-</a>
+<!-- Typing (mantido, mas com menos parâmetros instáveis) -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Aplicações+modernas+e+escaláveis;Código+limpo+e+arquitetura+eficiente"/>
 
 <br><br>
 
@@ -19,12 +19,6 @@
 
 <br><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloHenrique&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenrique&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=PauloHenrique&color=4F46E5&style=flat-square&label=Visualizações+do+Perfil"/>
 
 </div>
 
@@ -34,9 +28,9 @@
 
 Sou **Paulo Henrique Ferreira França**, graduando em **Engenharia de Software** e pós-graduando em **Desenvolvimento Front-End**.
 
-Atuo no desenvolvimento de **interfaces modernas**, com foco em **experiência do usuário (UX)**, **responsividade**, **performance** e **boas práticas de arquitetura frontend**.
+Atuo como **Desenvolvedor Full Stack**, construindo aplicações completas — do **frontend moderno** ao **backend escalável e seguro**.
 
-Busco construir aplicações web escaláveis, acessíveis e visualmente consistentes, unindo **design funcional**, **usabilidade** e **código limpo**.
+Tenho foco em **experiência do usuário (UX)**, **performance**, **arquitetura de software** e **integração eficiente de sistemas**, buscando sempre entregar soluções reais, funcionais e bem estruturadas.
 
 ---
 
@@ -46,109 +40,79 @@ Busco construir aplicações web escaláveis, acessíveis e visualmente consiste
 
 ---
 
-## 💻 Stack Tecnológica (Frontend)
+## 💻 Stack Tecnológica (Full Stack)
 
-### Tecnologias Principais
+### 🚀 Frontend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,git,github&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,html,css,tailwind,bootstrap"/>
 </div>
 
-- React
-- TypeScript
-- JavaScript (ES6+)
-- HTML5 semântico
-- CSS3 moderno
-- Tailwind CSS
-- Bootstrap
-- Git & GitHub
-- Design Responsivo (Mobile First)
+- React / Next.js  
+- TypeScript / JavaScript  
+- HTML5 / CSS3  
+- Tailwind / Bootstrap  
+- Mobile First  
 
 ---
 
-### Consumo de APIs & Integrações Frontend
-- Consumo de **APIs REST**
-- Integração com backends externos
-- Manipulação de dados assíncronos (fetch / axios)
-- Tratamento de estados de loading e erro
-- Integração com dashboards e dados dinâmicos
-
----
-
-### Ferramentas de Desenvolvimento
+### ⚙️ Backend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,vscode,postman,npm&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql"/>
 </div>
 
-- Figma
-- VS Code
-- Postman
-- NPM
-- Versionamento com Git
+- Node.js  
+- Express  
+- APIs REST  
+- JWT  
+- Arquitetura escalável  
 
 ---
 
-## 📊 Nível de Atuação
+### 🗄️ Banco de Dados
+- PostgreSQL  
+- MongoDB  
+- Modelagem e CRUD  
 
-| Área | Nível | Destaque |
-|-----|------|---------|
-| Frontend | 90% | React, UI, Responsividade |
-| UX/UI | 85% | Usabilidade e Acessibilidade |
-| Integração com APIs | 85% | Consumo e organização de dados |
-| Arquitetura Frontend | 75% | Componentização |
+---
+
+### 🛠️ Ferramentas
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,npm"/>
+</div>
+
+- Git & GitHub  
+- Figma  
+- Postman  
+- VS Code  
 
 ---
 
 ## 🚀 Projetos
 
-- Aplicações Frontend com consumo de APIs
-- Dashboards responsivos
-- Interfaces modernas com React e TypeScript
-- Layouts seguindo boas práticas de UX/UI
-- Projetos com versionamento e histórico no GitHub
+- Aplicações Full Stack completas  
+- APIs com autenticação  
+- Dashboards dinâmicos  
+- Integração frontend + backend  
 
-📂 **Veja todos os projetos:**  
-👉 https://github.com/PauloHenrique?tab=repositories
-
----
-
-## 🎯 Objetivo Profissional
-
-- Desenvolvedor Frontend Júnior ou Pleno
-- Estágio em Desenvolvimento Frontend  
-- Foco em React, TypeScript, APIs e UX/UI  
-- Disponibilidade imediata  
-- Modelo: Remoto | Híbrido | Presencial  
+📂 **Repositórios:**  
+👉 https://github.com/PauloHenrique?tab=repositories  
 
 ---
 
-## 🤝 Vamos nos Conectar
+## 🎯 Objetivo
+
+- Desenvolvedor Full Stack (Júnior/Pleno)  
+- React + Node.js  
+- Remoto | Híbrido | Presencial  
+
+---
+
+## 🤝 Contato
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/paulo-henrique-ferreira-fran%C3%A7a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/PauloHenrique">
-  <img src="https://img.shields.io/badge/GitHub-Código-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Profissional-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<br><br>
-
-📧 **Email:** paulo.henrique@email.com  
-🌍 **Disponível para oportunidades no Brasil e remoto**
-
 </div>
-
----
-
-<div align="center">
-
-💬 *“Frontend não é só aparência — é experiência, clareza e performance.”*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,30:4F46E5,70:7C3AED,100:2563EB&height=120&section=footer"/>
-
-<sub>🚀 README atualizado — Salvador · 2026</sub>
-
-</div>
-
-
