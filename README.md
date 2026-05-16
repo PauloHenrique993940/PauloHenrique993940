@@ -46,11 +46,11 @@ Atuo na construção de aplicações web modernas, escaláveis e orientadas à e
 
 ## Painel dinâmico
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauloHenrique993940&show_icons=true&theme=dark&bg_color=000000&title_color=facc15&text_color=ffffff&icon_color=facc15&border_color=facc15&hide=issues,contribs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauloHenrique993940&show_icons=true&theme=transparent&bg_color=000000&title_color=facc15&text_color=ffffff&icon_color=facc15&border_color=facc15&cache_seconds=1800)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PauloHenrique993940&background=000000&ring=FACC15&fire=FACC15&currStreakLabel=FACC15&sideLabels=FFFFFF&sideNums=FFFFFF&dates=D1D5DB&border=FACC15)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenrique993940&layout=compact&theme=transparent&bg_color=000000&title_color=facc15&text_color=ffffff&border_color=facc15&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenrique993940&layout=compact&bg_color=000000&title_color=facc15&text_color=ffffff&border_color=facc15)
+![GitHub Streak](https://streak-stats.demolab.com?user=PauloHenrique993940&theme=highcontrast&ring=facc15&fire=facc15&currStreakLabel=facc15)
 
 ### Front-end
 
