@@ -46,11 +46,16 @@ Atuo na construção de aplicações web modernas, escaláveis e orientadas à e
 
 ## Painel dinâmico
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauloHenrique993940&show_icons=true&theme=transparent&bg_color=000000&title_color=facc15&text_color=ffffff&icon_color=facc15&border_color=facc15&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenrique993940&layout=compact&theme=transparent&bg_color=000000&title_color=facc15&text_color=ffffff&border_color=facc15&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PauloHenrique993940&show_icons=true&theme=transparent&bg_color=000000&title_color=facc15&text_color=ffffff&icon_color=facc15&border_color=facc15" height="180"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PauloHenrique993940&theme=highcontrast&ring=facc15&fire=facc15&currStreakLabel=facc15)
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PauloHenrique993940&layout=compact&theme=transparent&bg_color=000000&title_color=facc15&text_color=ffffff&border_color=facc15" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PauloHenrique993940&theme=highcontrast&ring=facc15&fire=facc15&currStreakLabel=facc15&border=facc15"/>
+</p>
 
 ### Front-end
 
