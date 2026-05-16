@@ -1,53 +1,62 @@
-<div align="center">
+# Paulo Henrique Ferreira França
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:1e293b&text=Paulo%20Henrique%20Ferreira%20Fran%C3%A7a&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+![Banner tech com identidade visual preto e amarelo](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050505,55:241c05,100:facc15&text=PAULO%20HENRIQUE%20FERREIRA%20FRANCA&fontSize=30&fontColor=fffdf5&animation=twinkling&fontAlignY=37&desc=FULL%20STACK%20JUNIOR%20%20%20%7C%20%20%20PORTFOLIO%20PROFILE&descAlignY=58&descSize=15&descColor=fff4bf)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=94A3B8&center=true&vCenter=true&width=760&lines=Desenvolvedor+Full+Stack+J%C3%BAnior;React.js+%7C+Node.js+%7C+TypeScript;PostgreSQL+%7C+Prisma+%7C+Supabase;Construindo+aplica%C3%A7%C3%B5es+reais+e+escal%C3%A1veis" />
+![Linha animada com stack principal](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=700&color=FACC15&center=true&vCenter=true&width=920&lines=console.log(%22Building+real+products%22);React.js+%7C+Node.js+%7C+TypeScript;PostgreSQL+%7C+Prisma+%7C+Supabase;UI+responsiva+%2B+API+escalavel+%2B+codigo+organizado;Always+learning.+Always+shipping.)
 
-<br><br>
+![Contador de visitas](https://komarev.com/ghpvc/?username=PauloHenrique993940&label=PROFILE%20VIEWS&color=facc15&style=for-the-badge)
+![Status Open To Work](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-facc15?style=for-the-badge&logo=buffer&logoColor=111111&labelColor=111111)
+![Stack Badge](https://img.shields.io/badge/STACK-FULL%20STACK-111111?style=for-the-badge&logo=githubcopilot&logoColor=facc15&labelColor=111111)
 
-<a href="https://www.linkedin.com/in/paulo-henrique-ferreira-fran%C3%A7a/">
-<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/PauloHenrique993940">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://paulo-fullstack-dev.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-1e293b?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=facc15&labelColor=0a0a0a)](https://www.linkedin.com/in/paulo-henrique-ferreira-fran%C3%A7a/)
+[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=111111)](https://github.com/PauloHenrique993940)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-facc15?style=for-the-badge&logo=vercel&logoColor=111111&labelColor=facc15)](https://paulo-fullstack-dev.vercel.app/)
 
 ---
 
-# Sobre
+## Full Stack Júnior
 
-Sou **Paulo Henrique Ferreira França**, Desenvolvedor **Full Stack Júnior**, formado em **Análise e Desenvolvimento de Sistemas**, pós-graduando em **Desenvolvimento Front-end** e graduando em **Engenharia de Software**.
+Sou **Paulo Henrique Ferreira França**, desenvolvedor **Full Stack Júnior** com formação em **Análise e Desenvolvimento de Sistemas**, pós-graduando em **Desenvolvimento Front-end** e graduando em **Engenharia de Software**.
 
-Atuo no desenvolvimento de aplicações web modernas, escaláveis e orientadas à experiência do usuário, com foco em **React.js**, **Node.js**, **TypeScript** e **PostgreSQL**.
+Atuo na construção de aplicações web modernas, escaláveis e orientadas à experiência do usuário, com foco em **React.js**, **Node.js**, **TypeScript** e **PostgreSQL**.
 
-Tenho experiência prática em projetos completos envolvendo:
+> EDIÇÃO 01  
+> PORTFÓLIO PROFISSIONAL / 2026  
+>
+> **ABERTO A OPORTUNIDADES**  
+>
+> **Posicionamento:** transformar aprendizado técnico em software utilizável, com autenticação, integração entre camadas e experiência responsiva.  
+> **Objetivo:** atuar como Desenvolvedor Full Stack Júnior ou Front-end Developer em produtos reais, com código bem estruturado e escalável.
 
-✔ APIs RESTful  
-✔ Autenticação e controle de usuários  
-✔ Integração Front-end + Back-end  
-✔ Modelagem de banco com Prisma ORM  
-✔ Deploy e cloud com Supabase e Vercel  
+### Foco atual
+
+- APIs RESTful com arquitetura organizada
+- Autenticação e controle de acesso
+- Integração entre front-end e back-end
+- Modelagem de dados com Prisma ORM
+- Deploy e cloud com Supabase e Vercel
 
 ---
 
-# Stack Principal
+## Stack principal
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,postgres,git,github,vercel,vscode&theme=dark"/>
-</div>
+![Ícones de tecnologias principais](https://skillicons.dev/icons?i=react,ts,js,nodejs,express,postgres,prisma,supabase,git,github,vercel,vscode&theme=light)
+
+---
+
+## Painel dinâmico
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauloHenrique993940&show_icons=true&theme=dark&bg_color=000000&title_color=facc15&text_color=ffffff&icon_color=facc15&border_color=facc15&hide=issues,contribs)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=PauloHenrique993940&background=000000&ring=FACC15&fire=FACC15&currStreakLabel=FACC15&sideLabels=FFFFFF&sideNums=FFFFFF&dates=D1D5DB&border=FACC15)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenrique993940&layout=compact&bg_color=000000&title_color=facc15&text_color=ffffff&border_color=facc15)
 
 ### Front-end
+
 - React.js
 - TypeScript
-- JavaScript (ES6+)
+- JavaScript ES6+
 - HTML5
 - CSS3
 - Tailwind CSS
@@ -56,55 +65,72 @@ Tenho experiência prática em projetos completos envolvendo:
 - Zod
 
 ### Back-end
+
 - Node.js
 - Express.js
 - APIs RESTful
+- Autenticação JWT
+- Validação de dados
+- Integração client-server
 
-### Banco de Dados & Cloud
+### Dados e cloud
+
 - PostgreSQL
 - Prisma ORM
 - Supabase
+- Vercel
+- Modelagem relacional
+- Deploy de aplicações
 
 ---
 
-# Projetos em Destaque
+## Projetos em destaque
 
 ### Plataforma de Gestão de Almoxarifado
-Sistema Full Stack para controle de estoque e materiais.
+
+Sistema Full Stack para controle de estoque, materiais e fluxo operacional com foco em organização, produtividade e escalabilidade.
 
 **Stack:** React.js | TypeScript | Node.js | PostgreSQL | Prisma | Supabase
 
----
-
 ### E-commerce SyntaXwear
-Plataforma moderna de e-commerce responsiva.
+
+Plataforma moderna de e-commerce responsiva, com interface bem estruturada e experiência voltada à navegação clara e conversão.
 
 **Stack:** React.js | TypeScript | Tailwind CSS | TanStack Router | Zod
 
----
-
 ### Fitto Mobile
-Aplicativo mobile de e-commerce completo.
+
+Aplicativo mobile de e-commerce com fluxo completo de navegação, catálogo de produtos e integração com serviços de back-end.
 
 **Stack:** React Native | Expo | Node.js | MongoDB
 
 ---
 
-# Objetivo
+## Atividade
 
-Busco oportunidades como **Desenvolvedor Full Stack Júnior** ou **Front-end Developer**, contribuindo em projetos reais e escaláveis enquanto continuo evoluindo tecnicamente.
-
----
-
-# Contato
-
-📍 Salvador - BA  
-📧 paulohenriqueferreirafranca2@gmail.com  
-🔗 LinkedIn: linkedin.com/in/paulo-henrique-ferreira-frança  
-🌐 Portfólio: https://paulo-fullstack-dev.vercel.app/
+![Gráfico de atividade GitHub](https://github-readme-activity-graph.vercel.app/graph?username=PauloHenrique993940&bg_color=000000&color=ffffff&line=facc15&point=fff4bf&area=true&area_color=facc15&hide_border=false&border_color=facc15)
 
 ---
 
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,100:1e293b"/>
-</div>
+## Diferenciais
+
+- Construo interfaces responsivas com preocupação real com UX.
+- Organizo o código pensando em manutenção e evolução do produto.
+- Consigo atuar do front-end ao back-end em projetos completos.
+- Tenho foco em aprendizado contínuo e entrega prática.
+
+---
+
+## Contato
+
+- **Local:** Salvador - BA
+- **E-mail:** [paulohenriqueferreirafranca2@gmail.com](mailto:paulohenriqueferreirafranca2@gmail.com)
+- **LinkedIn:** [linkedin.com/in/paulo-henrique-ferreira-frança](https://www.linkedin.com/in/paulo-henrique-ferreira-fran%C3%A7a/)
+- **Portfólio:** [paulo-fullstack-dev.vercel.app](https://paulo-fullstack-dev.vercel.app/)
+
+---
+
+![Badge Full Stack Junior](https://img.shields.io/badge/FULL%20STACK%20JUNIOR-111111?style=for-the-badge&logo=github&logoColor=facc15&labelColor=111111)
+![Badge React Node TypeScript](https://img.shields.io/badge/REACT%20%7C%20NODE%20%7C%20TYPESCRIPT-facc15?style=for-the-badge&logo=codersrank&logoColor=111111&labelColor=facc15)
+
+![Rodapé com identidade visual preto e amarelo](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050505,55:241c05,100:facc15)
