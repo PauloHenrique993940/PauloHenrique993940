@@ -1,192 +1,108 @@
-# Paulo Henrique Ferreira França
+<div align="center">
 
-![Banner tech com identidade visual preto e amarelo](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050505,55:241c05,100:facc15&text=PAULO%20HENRIQUE%20FERREIRA%20FRANCA&fontSize=30&fontColor=fffdf5&animation=twinkling&fontAlignY=37&desc=FULL%20STACK%20JUNIOR%20%20%20%7C%20%20%20PORTFOLIO%20PROFILE&descAlignY=58&descSize=15&descColor=fff4bf)
+![Paulo Henrique Ferreira França](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050505,56:15130a,100:facc15&text=PAULO%20HENRIQUE&fontSize=36&fontColor=fffdf5&animation=twinkling&fontAlignY=38&desc=FULL%20STACK%20JUNIOR%20%7C%20EDICAO%2001&descAlignY=59&descSize=15&descColor=fff4bf)
 
-![Linha animada com stack principal](<https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=700&color=FACC15&center=true&vCenter=true&width=920&lines=console.log(%22Building+real+products%22);React.js+%7C+Node.js+%7C+TypeScript;PostgreSQL+%7C+Prisma+%7C+Supabase;UI+responsiva+%2B+API+escalavel+%2B+codigo+organizado;Always+learning.+Always+shipping.>)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=900&color=FACC15&center=true&vCenter=true&width=860&lines=Construindo+produtos+digitais+com+contexto+real.;React.js+%7C+Node.js+%7C+TypeScript+%7C+PostgreSQL;Interface+responsiva.+API+REST.+Codigo+pronto+para+evoluir.)](https://git.io/typing-svg)
 
-![Contador de visitas](https://komarev.com/ghpvc/?username=PauloHenrique993940&label=PROFILE%20VIEWS&color=facc15&style=for-the-badge)
-![Status Open To Work](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-facc15?style=for-the-badge&logo=buffer&logoColor=111111&labelColor=111111)
-![Stack Badge](https://img.shields.io/badge/STACK-FULL%20STACK-111111?style=for-the-badge&logo=githubcopilot&logoColor=facc15&labelColor=111111)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=facc15)](https://www.linkedin.com/in/paulo-henrique-ferreira-fran%C3%A7a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-facc15?style=for-the-badge&logo=vercel&logoColor=111111)](https://paulo-fullstack-dev.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/PauloHenrique993940)
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=facc15&labelColor=0a0a0a)](https://www.linkedin.com/in/paulo-henrique-ferreira-fran%C3%A7a/)
-[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=111111)](https://github.com/PauloHenrique993940)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-facc15?style=for-the-badge&logo=vercel&logoColor=111111&labelColor=facc15)](https://paulo-fullstack-dev.vercel.app/)
+</div>
 
----
+## Paulo Henrique Ferreira Franca
 
-## Full Stack Júnior
-
-Sou **Paulo Henrique Ferreira França**, desenvolvedor **Full Stack Júnior** com formação em **Análise e Desenvolvimento de Sistemas**, pós-graduando em **Desenvolvimento Front-end** e graduando em **Engenharia de Software**.
-
-Atuo no desenvolvimento de aplicações web modernas, responsivas e escaláveis, com foco em **React.js**, **Node.js**, **TypeScript** e **PostgreSQL**. Busco transformar aprendizado técnico em software utilizável, com boa arquitetura, integração entre camadas e experiência consistente para o usuário.
-
-> **Edição 01**
->
 > **Portfólio profissional / 2026**
 >
-> **Aberto a oportunidades** para atuação como **Desenvolvedor Full Stack Júnior** ou **Front-end Developer** em produtos reais, com código bem estruturado, manutenção clara e evolução contínua.
+> Desenvolvedor **Full Stack Júnior** focado em aplicações web modernas, escaláveis e orientadas à experiência do usuário. Aberto a oportunidades remotas, híbridas ou presenciais.
 
-### Foco atual
+Atuo com **React.js**, **TypeScript**, **Node.js**, **Express**, **PostgreSQL**, **Prisma** e **Supabase** para criar soluções com interfaces responsivas, APIs RESTful e estrutura pensada para manutenção. Cada projeto é tratado como um case: contexto, problema, decisões técnicas e resultado.
 
-- Desenvolvimento de interfaces modernas e responsivas
-- Integração entre front-end e back-end
-- Consumo e construção de APIs RESTful
-- Autenticação e controle de acesso
-- Modelagem de dados com Prisma ORM
-- Deploy e cloud com Supabase e Vercel
+### Leitura rápida
+
+| Quem eu sou | O que eu faço | Valor que entrego |
+| --- | --- | --- |
+| Desenvolvedor Full Stack Júnior, formado em Análise e Desenvolvimento de Sistemas. | Construo interfaces em React e APIs RESTful, conectando front-end, regras de negócio e banco de dados. | Produtos utilizáveis, código organizado e uma experiência consistente em diferentes telas. |
 
 ---
 
-## Stack principal
+## 01 / Posicionamento
 
-![Ícones de tecnologias principais](https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,express,postgres,prisma,supabase,git,github,vercel,vscode,figma&theme=light)
+Minha proposta é transformar aprendizado técnico em software utilizável, com integração entre camadas, autenticação, modelagem de dados e uma experiência responsiva que atende ao contexto real de operação.
+
+| Foco | Dados | Entrega |
+| --- | --- | --- |
+| React.js · Node.js · TypeScript | PostgreSQL · Prisma · Supabase | APIs REST · UX responsiva · Deploy |
+
+---
+
+## 02 / Projeto principal - Almoxarif.
+
+Plataforma de gestão de almoxarifado criada para um cenário de logística e suprimentos, com autenticação, controle de materiais, rastreabilidade e integração completa entre front-end e back-end.
+
+| Problema | Solução | Tecnologias | Resultado |
+| --- | --- | --- | --- |
+| Centralizar estoque, inventário e movimentações para reduzir retrabalho. | Aplicação full stack com interface responsiva, APIs RESTful e fluxos centralizados de consulta e atualização. | React.js, TypeScript, Node.js, Express, PostgreSQL, Prisma e Supabase. | Demonstra arquitetura full stack, modelagem relacional e foco em produtividade operacional. |
+
+---
+
+## 03 / Desafio técnico - Lacrei Saúde LGBT
+
+Desenvolvimento de uma experiência digital acessível, segura e centrada nas pessoas usuárias. O trabalho priorizou qualidade de código, colaboração e boas práticas para um produto inclusivo e confiável.
+
+**Stack:** React.js · TypeScript · React Hooks · Context API · Styled Components · Vite · Testes · Acessibilidade digital · UX/UI
+
+---
+
+## 04 / Outro case forte - FinancePro.
+
+Sistema SaaS para controle financeiro de pequenos negócios, com arquitetura MVC em PHP, autenticação por sessão/JWT, dashboard operacional, CRUDs e relatórios gerenciais.
+
+**Stack:** PHP 8+ · MVC · PostgreSQL · JWT · Bootstrap 5 · Chart.js · Dompdf · PhpSpreadsheet
+
+---
+
+## Sinais de maturidade
+
+- Interfaces mobile first em React.js, TypeScript e Tailwind CSS.
+- APIs REST com Node.js e Express, conectando front-end e back-end.
+- Camada de dados com PostgreSQL, Prisma ORM e Supabase.
+- Deploy em produção com foco em UX, performance e manutenção.
+
+## Stack
+
+[![Tecnologias](https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,express,postgres,prisma,supabase,php,git,github,vercel,vscode,figma&theme=dark)](https://skillicons.dev)
 
 ---
 
 ## Painel dinâmico
 
-![Estatísticas do GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=PauloHenrique993940&show_icons=true&theme=transparent&bg_color=000000&title_color=facc15&text_color=ffffff&icon_color=facc15&border_color=facc15)
+<div align="center">
 
-![Linguagens mais usadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PauloHenrique993940&layout=compact&theme=transparent&bg_color=000000&title_color=facc15&text_color=ffffff&border_color=facc15)
+![Estatísticas do GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=PauloHenrique993940&show_icons=true&theme=transparent&bg_color=050505&title_color=facc15&text_color=fffdf5&icon_color=facc15&border_color=facc15)
+
+![Linguagens mais usadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PauloHenrique993940&layout=compact&theme=transparent&bg_color=050505&title_color=facc15&text_color=fffdf5&border_color=facc15)
 
 ![Sequência de contribuições](https://streak-stats.demolab.com?user=PauloHenrique993940&theme=highcontrast&ring=facc15&fire=facc15&currStreakLabel=facc15&border=facc15)
 
----
-
-## Competências técnicas
-
-### Front-end
-
-- React.js
-- TypeScript
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Tailwind CSS
-- Responsividade
-- Mobile First
-- UI/UX
-- Design Responsivo
-- Acessibilidade
-- SEO básico
-- Performance de interface
-- Componentes reutilizáveis
-- Design System
-- React Hook Form
-- TanStack Router
-- Zod
-- Axios
-- Integração com APIs REST
-
-### Back-end
-
-- Node.js
-- Express.js
-- APIs RESTful
-- Autenticação JWT
-- Validação de dados
-- Integração client-server
-
-### Dados e cloud
-
-- PostgreSQL
-- Prisma ORM
-- Supabase
-- Vercel
-- Modelagem relacional
-- Deploy de aplicações
-
-### Ferramentas
-
-- Git
-- GitHub
-- VS Code
-- Figma
-- Versionamento de código
+</div>
 
 ---
 
-## Projetos em destaque
+## Formação
 
-### Plataforma de Gestão de Almoxarifado
-
-Sistema Full Stack para controle de estoque, materiais e fluxo operacional, com foco em organização, produtividade e escalabilidade.
-
-**Stack:** React.js | TypeScript | Node.js | PostgreSQL | Prisma | Supabase
-
-- Interface responsiva para desktop e mobile
-- Componentes reutilizáveis para padronização visual
-- Integração entre front-end e back-end
-- Estrutura orientada à usabilidade e produtividade
-
-### E-commerce SyntaXwear
-
-Plataforma moderna de e-commerce com navegação responsiva, interface bem estruturada e experiência voltada à clareza e conversão.
-
-**Stack:** React.js | TypeScript | Tailwind CSS | TanStack Router | Zod | APIs REST
-
-- Layout responsivo com foco em experiência do usuário
-- Componentização pensando em escalabilidade
-- Aplicação de UI/UX, Mobile First e hierarquia visual
-- Integração com APIs para produtos, pedidos e usuários
-
-### Fitto Mobile
-
-Aplicativo mobile de e-commerce com fluxo completo de navegação, catálogo de produtos e integração com serviços de back-end.
-
-**Stack:** React Native | Expo | Node.js | MongoDB
-
----
-
-## Formação acadêmica
-
-- **Pós-graduação em Desenvolvimento Front-end** - Anhanguera  
-  Previsão de conclusão: 07/2026
-- **Bacharelado em Engenharia de Software** - Estácio  
-  Previsão de conclusão: 08/2029
-- **Tecnólogo em Análise e Desenvolvimento de Sistemas** - Unifatecie  
-  Concluído em 2024
-
----
-
-## Cursos complementares
-
-- DevQuest Full Stack Web Developer - Dev em Dobro
-- DevQuest 2.0 Front-end - Dev em Dobro
-- Arquitetura e Programação Front-end - Faculdade Focus
-- JavaScript Developer - Jornada do Dev
-- Git e GitHub - Refatorando
-- Programação Full Stack - Infinity School
-
----
-
-## Diferenciais
-
-- Construção de interfaces responsivas com foco real em UX
-- Organização de código para manutenção e evolução do produto
-- Atuação do front-end ao back-end em projetos completos
-- Aprendizado contínuo com aplicação prática
-- Portfólio ativo com projetos autorais publicados
-
----
-
-## Atividade
-
-![Gráfico de atividade GitHub](https://github-readme-activity-graph.vercel.app/graph?username=PauloHenrique993940&bg_color=000000&color=ffffff&line=facc15&point=fff4bf&area=true&area_color=facc15&hide_border=false&border_color=facc15)
-
----
+- **Pós-graduação em Desenvolvimento Front-end**, Anhanguera. Conclusão prevista para 07/2026.
+- **Bacharelado em Engenharia de Software**, Estácio. Conclusão prevista para 08/2029.
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas**, Unifatecie. Concluído em 2024.
 
 ## Contato
 
-- **Local:** Salvador - BA
-- **E-mail:** [paulohenriqueferreirafranca2@gmail.com](mailto:paulohenriqueferreirafranca2@gmail.com)
-- **LinkedIn:** [linkedin.com/in/paulo-henrique-ferreira-frança](https://www.linkedin.com/in/paulo-henrique-ferreira-fran%C3%A7a/)
-- **Portfólio:** [paulo-fullstack-dev.vercel.app](https://paulo-fullstack-dev.vercel.app/)
-- **GitHub:** [github.com/PauloHenrique993940](https://github.com/PauloHenrique993940)
+- Salvador, BA · UTC -03:00
+- [paulohenriqueferreirafranca2@gmail.com](mailto:paulohenriqueferreirafranca2@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/paulo-henrique-ferreira-fran%C3%A7a/) · [Portfólio](https://paulo-fullstack-dev.vercel.app/) · [GitHub](https://github.com/PauloHenrique993940)
 
----
+<div align="center">
 
-![Badge Full Stack Junior](https://img.shields.io/badge/FULL%20STACK%20JUNIOR-111111?style=for-the-badge&logo=github&logoColor=facc15&labelColor=111111)
-![Badge React Node TypeScript](https://img.shields.io/badge/REACT%20%7C%20NODE%20%7C%20TYPESCRIPT-facc15?style=for-the-badge&logo=codersrank&logoColor=111111&labelColor=facc15)
+![Rodapé](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050505,56:15130a,100:facc15)
 
-![Rodapé com identidade visual preto e amarelo](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050505,55:241c05,100:facc15)
+</div>
