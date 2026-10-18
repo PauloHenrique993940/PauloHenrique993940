@@ -1,6 +1,6 @@
 <div align="center">
 
-![Paulo Henrique — Desenvolvimento Front-end e Full Stack](https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0f172a,50:6366f1,100:22d3ee&text=Paulo%20Henrique&fontSize=52&fontColor=ffffff&fontAlignY=43&desc=FRONT-END%20%26%20FULL%20STACK%20DEVELOPER&descSize=15&descAlignY=65)
+![Paulo Henrique — Desenvolvimento Front-end e Full Stack](assets/banner.svg)
 
 **Interfaces bem pensadas. Código com propósito. Soluções para o mundo real.**
 
@@ -167,6 +167,6 @@ Busco um **estágio em Front-end ou Full Stack** para transformar aprendizado em
 
 **Entender. Construir. Aprender. Evoluir.**
 
-![Rodapé decorativo em azul e violeta](https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0f172a,50:6366f1,100:22d3ee)
+
 
 </div>
