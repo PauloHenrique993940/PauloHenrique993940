@@ -1,89 +1,64 @@
 ﻿<div align="center">
 
-<img src="assets/profile-header.svg" width="100%" alt="Paulo Henrique Ferreira França — Desenvolvedor Full Stack e IA" />
+<img src="assets/profile-dashboard.svg" width="100%" alt="Painel de perfil de Paulo Henrique Ferreira França, desenvolvedor Full Stack e IA" />
+
+[🌐 Portfólio](https://paulo-fullstack-dev.vercel.app/) · [💼 LinkedIn](https://www.linkedin.com/in/paulo-henrique-ferreira-fran%C3%A7a/) · [📩 E-mail](mailto:paulohenriqueferreirafranca2@gmail.com) · [💻 Repositórios](https://github.com/PauloHenrique993940?tab=repositories)
 
 </div>
 
 <table>
 <tr>
-<td width="34%" valign="top" align="center">
+<td width="58%" valign="top" align="center">
 
-<img src="https://github.com/PauloHenrique993940.png" width="100%" alt="Foto de Paulo Henrique" />
-
-`paulo@github:~$ whoami`
-
-**Paulo Henrique Ferreira França**
-
-</td>
-<td width="66%" valign="top">
-
-### <span style="color:#58a6ff">+ PauloHenrique993940</span> ────────────────────────
-
-- <span style="color:#ff9b36">Área:</span> Desenvolvimento Full Stack · Aplicações Web
-- <span style="color:#ff9b36">Localização:</span> Salvador, Bahia, Brasil
-- <span style="color:#ff9b36">Formação:</span> Análise e Desenvolvimento de Sistemas — 2024
-- <span style="color:#ff9b36">Estudos:</span> Engenharia de Software · Pós-graduação em Desenvolvimento Front-end
-- <span style="color:#ff9b36">Foco:</span> IA Generativa · LLMs · Agentes de IA
-
-#### <span style="color:#58a6ff">— Contact</span> ─────────────────────────────────────
-
-- <span style="color:#ff9b36">Portfólio:</span> [paulo-fullstack-dev.vercel.app](https://paulo-fullstack-dev.vercel.app/)
-- <span style="color:#ff9b36">GitHub:</span> [github.com/PauloHenrique993940](https://github.com/PauloHenrique993940)
-- <span style="color:#ff9b36">LinkedIn:</span> [Paulo Henrique Ferreira França](https://www.linkedin.com/in/paulo-henrique-ferreira-fran%C3%A7a/)
-- <span style="color:#ff9b36">E-mail:</span> [paulohenriqueferreirafranca2@gmail.com](mailto:paulohenriqueferreirafranca2@gmail.com)
-
-#### <span style="color:#58a6ff">— GitHub Stats</span> ───────────────────────────────
-
-<img src="https://github-readme-stats.vercel.app/api?username=PauloHenrique993940&show_icons=true&hide_title=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=ff9b36&hide_border=true" width="100%" alt="Estatísticas públicas do GitHub" />
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="76%" valign="top">
-
-### ` [ TOP LANGUAGES ] ` ──────────────────────────────────
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenrique993940&layout=compact&langs_count=6&bg_color=00000000&title_color=8b949e&text_color=c9d1d9&hide_border=true" alt="Linguagens mais usadas nos repositórios públicos" />
-
-**Stack:** TypeScript · JavaScript · React · Next.js · Node.js · PostgreSQL · Prisma · Supabase  
-**IA:** LLMs · IA Generativa · Agentes de IA · Prompt Engineering
-
-</td>
-<td width="24%" align="center" valign="middle">
+### ` [ GITHUB STATS ] `
 
 <a href="https://github.com/PauloHenrique993940">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PauloHenrique993940&repo=PauloHenrique993940&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true" width="100%" alt="Repositório em destaque" />
+<img src="https://gitascii.com/api/PauloHenrique993940?widgets=github-readme-stats" width="100%" alt="Estatísticas atuais do GitHub de Paulo Henrique" />
 </a>
 
-`PLAYER 1`  
-`FULL STACK + AI`
+</td>
+<td width="42%" valign="top" align="center">
+
+### ` [ TOP LANGUAGES ] `
+
+<a href="https://github.com/PauloHenrique993940?tab=repositories">
+<img src="https://gitascii.com/api/PauloHenrique993940?widgets=languages" width="100%" alt="Linguagens mais usadas nos repositórios públicos" />
+</a>
 
 </td>
 </tr>
 </table>
 
-### `— ABOUT`
+## `01 / PERFIL`
 
-Sou desenvolvedor Full Stack, formado em Análise e Desenvolvimento de Sistemas. Construo aplicações web e soluções inteligentes conectando interfaces, regras de negócio, dados e Inteligência Artificial.
+Sou **Paulo Henrique Ferreira França**, desenvolvedor Full Stack formado em Análise e Desenvolvimento de Sistemas. Desenvolvo aplicações web e soluções inteligentes conectando interfaces, regras de negócio, dados e Inteligência Artificial.
 
-Minha experiência em logística e gestão de materiais na Secretaria da Segurança Pública do Estado da Bahia me trouxe uma visão prática de processos operacionais, controle de estoque, rastreabilidade e eficiência. Hoje, aplico essa visão na criação de software útil e bem estruturado.
+Minha experiência em logística e gestão de materiais na Secretaria da Segurança Pública do Estado da Bahia me deu uma visão prática de processos operacionais, controle de estoque, rastreabilidade e eficiência. Hoje, levo esse conhecimento para a construção de software útil e bem estruturado.
 
-### `— PROJECTS`
+## `02 / PROJETOS`
 
-| Projeto | Descrição | Tecnologias |
+| Projeto | O que resolve | Stack |
 |:--|:--|:--|
-| **Gestão de Almoxarifado** | Controle de estoque, inventário, patrimônio e movimentações. | React · TypeScript · Node.js · PostgreSQL · Prisma |
+| **Gestão de Almoxarifado** | Estoque, inventário, patrimônio e movimentações. | React · TypeScript · Node.js · Express · PostgreSQL · Prisma |
 | **Rastreamento em Tempo Real** | Acompanhamento logístico com geolocalização, mapas e comunicação em tempo real. | React · WebSocket · Supabase · Google Maps API |
-| **Biblioteca Digital** | Pesquisa, filtros, favoritos e biblioteca pessoal. | React · TypeScript · Vite · Context API |
-| **MovieFlix API** | API REST com CRUD, filtros, paginação e Swagger. | Node.js · Express · TypeScript · PostgreSQL |
-| **Lacrei Saúde** | Interface acessível e responsiva. [Abrir demo](https://lacrei-saude-desafio.vercel.app/) | React · TypeScript · Vite |
+| **Biblioteca Digital** | Pesquisa, filtros, favoritos e biblioteca pessoal. | React · TypeScript · Vite · React Router |
+| **MovieFlix API** | API REST com CRUD, filtros, paginação, validação e Swagger. | Node.js · Express · TypeScript · Prisma · PostgreSQL |
+| **Lacrei Saúde** | Interface responsiva com foco em acessibilidade. [Ver demonstração](https://lacrei-saude-desafio.vercel.app/) | React · TypeScript · Styled Components · Vite |
+
+## `03 / STACK`
+
+**Desenvolvimento:** TypeScript · JavaScript · Python · PHP · React · Next.js · Angular · Node.js · Express  
+**Dados e ferramentas:** PostgreSQL · MySQL · Prisma · Supabase · Git · Docker · Vite · Vercel  
+**Inteligência Artificial:** IA Generativa · LLMs · Agentes de IA · Prompt Engineering
+
+## `04 / FORMAÇÃO`
+
+- Análise e Desenvolvimento de Sistemas — Unifatecie, concluído em 2024.
+- Engenharia de Software — Estácio, em andamento.
+- Pós-graduação em Desenvolvimento Front-end — Anhanguera, em andamento.
 
 <div align="center">
 
-**ENGENHARIA DE SOFTWARE + IA + VISÃO DE NEGÓCIO**  
-[PORTFÓLIO](https://paulo-fullstack-dev.vercel.app/) · [LINKEDIN](https://www.linkedin.com/in/paulo-henrique-ferreira-fran%C3%A7a/) · [E-MAIL](mailto:paulohenriqueferreirafranca2@gmail.com)
+**SOFTWARE ENGINEERING · GENERATIVE AI · BUSINESS VISION**
 
 </div>
